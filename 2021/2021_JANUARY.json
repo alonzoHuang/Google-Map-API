@@ -1,0 +1,3970 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226027934,
+        "longitudeE7" : 1203260316,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 225951043,
+        "longitudeE7" : 1203082954,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609584368461",
+        "endTimestampMs" : "1609585175675"
+      },
+      "distance" : 2483,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 57.80642032623291
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 13.591688871383667
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 11.486539244651794
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 6.591486185789108
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.735558271408081
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.5093218088150024
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.5433492828160524
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.48470241017639637
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.11029299348592758
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06468461942858994
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.03330460749566555
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02246077492600307
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.018268742132931948
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.00189380571100628
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.9882090757382684E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226027374,
+          "lngE7" : 1203260803
+        }, {
+          "latE7" : 226033916,
+          "lngE7" : 1203241348
+        }, {
+          "latE7" : 225947189,
+          "lngE7" : 1203084487
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1609585318751",
+        "location" : {
+          "latitudeE7" : 225954566,
+          "longitudeE7" : 1203075643,
+          "accuracyMetres" : 125
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 225946759,
+        "longitudeE7" : 1203078901,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226046847,
+        "longitudeE7" : 1203321451,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609597096449",
+        "endTimestampMs" : "1609598911614"
+      },
+      "distance" : 3315,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 58.392924070358276
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 15.79812467098236
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.821370989084244
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 9.794119000434875
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.9787415638566017
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.2793665528297424
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6004611030220985
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.18890571082010865
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.060554262017831206
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0533937884029001
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.011175899999216199
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.010068577830679715
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.009812682401388884
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 8.766618520894554E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0733650697147823E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 225945510,
+          "lngE7" : 1203079376
+        }, {
+          "latE7" : 225938758,
+          "lngE7" : 1203055343
+        }, {
+          "latE7" : 225951557,
+          "lngE7" : 1203050613
+        }, {
+          "latE7" : 225954532,
+          "lngE7" : 1203051910
+        }, {
+          "latE7" : 225949134,
+          "lngE7" : 1203090209
+        }, {
+          "latE7" : 226014366,
+          "lngE7" : 1203220443
+        }, {
+          "latE7" : 226003684,
+          "lngE7" : 1203245391
+        }, {
+          "latE7" : 226017990,
+          "lngE7" : 1203266143
+        }, {
+          "latE7" : 226046905,
+          "lngE7" : 1203322067
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 225951805,
+          "lngE7" : 1203051453,
+          "timestampMs" : "1609597961677",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 225950565,
+          "lngE7" : 1203089828,
+          "timestampMs" : "1609598093890",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 226002750,
+          "lngE7" : 1203246155,
+          "timestampMs" : "1609598525443",
+          "accuracyMeters" : 31
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1609599060355",
+        "location" : {
+          "latitudeE7" : 226042708,
+          "longitudeE7" : 1203317902,
+          "accuracyMetres" : 125
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226045502,
+        "longitudeE7" : 1203325730,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226056831,
+        "longitudeE7" : 1203333186,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609646962732",
+        "endTimestampMs" : "1609647321885"
+      },
+      "distance" : 147,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 40.74397087097168
+      }, {
+        "activityType" : "STILL",
+        "probability" : 33.788782358169556
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 10.154443979263306
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.709406852722168
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.925369679927826
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.1889232322573662
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.5542045924812555
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.4706075880676508
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.24391596671193838
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.07299120770767331
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.07116358610801399
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04600590036716312
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.014040584210306406
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.013991969171911478
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0021812251361552626
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226045150,
+          "lngE7" : 1203325958
+        }, {
+          "latE7" : 226056327,
+          "lngE7" : 1203331680
+        }, {
+          "latE7" : 226056461,
+          "lngE7" : 1203333206
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226042179,
+        "longitudeE7" : 1203318290,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226261563,
+        "longitudeE7" : 1203387799,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609663583887",
+        "endTimestampMs" : "1609664556201"
+      },
+      "distance" : 2667,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 63.01963925361633
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 28.691264986991882
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.7199003845453262
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.1850023418664932
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.668698713183403
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3847192749381065
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.08354067103937268
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08306853123940527
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.06285592680796981
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05067631718702614
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.031694601057097316
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.01185451983474195
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005577369302045554
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0015001363863120787
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.92341773806038E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226043090,
+          "lngE7" : 1203319625
+        }, {
+          "latE7" : 226114311,
+          "lngE7" : 1203328399
+        }, {
+          "latE7" : 226126098,
+          "lngE7" : 1203362655
+        }, {
+          "latE7" : 226212024,
+          "lngE7" : 1203360671
+        }, {
+          "latE7" : 226259593,
+          "lngE7" : 1203387069
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226125259,
+          "lngE7" : 1203362427,
+          "timestampMs" : "1609663964118",
+          "accuracyMeters" : 25
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1609665028898",
+        "location" : {
+          "latitudeE7" : 226261535,
+          "longitudeE7" : 1203386204,
+          "accuracyMetres" : 90
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226261535,
+        "longitudeE7" : 1203386204,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 232867858,
+        "longitudeE7" : 1203990058,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609665028898",
+        "endTimestampMs" : "1609669999842"
+      },
+      "distance" : 75672,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 72.92612195014954
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 14.657217264175415
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.587282687425613
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.6435863450169563
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6492747459560633
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.25033834390342236
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.12089753290638328
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.048574258107692
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.038699270226061344
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03824216837529093
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.030898087425157428
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005966235767118633
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002397450225544162
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.044726665597409E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.625205166230444E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226260147,
+          "lngE7" : 1203385391
+        }, {
+          "latE7" : 230690460,
+          "lngE7" : 1203262481
+        }, {
+          "latE7" : 232867813,
+          "lngE7" : 1203991394
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1609670462784",
+        "location" : {
+          "latitudeE7" : 232862097,
+          "longitudeE7" : 1203992229,
+          "accuracyMetres" : 75
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 232860216,
+        "longitudeE7" : 1203991811,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 232910549,
+        "longitudeE7" : 1203992248,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609671294499",
+        "endTimestampMs" : "1609671563772"
+      },
+      "distance" : 559,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 73.59945774078369
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 14.83866274356842
+      }, {
+        "activityType" : "STILL",
+        "probability" : 8.404278755187988
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.263374276459217
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.2118006125092506
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2950352616608143
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.14487863518297672
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.06558349123224616
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06078975857235491
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.052133918507024646
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.035353159182704985
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.02471440238878131
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030282642910606228
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 8.903222806111444E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.2257586351770442E-5
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 229284315,
+        "longitudeE7" : 1202554982,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226042522,
+        "longitudeE7" : 1203320886,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610149920824",
+        "endTimestampMs" : "1610152368573"
+      },
+      "distance" : 17181,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 73.58911633491516
+      }, {
+        "activityType" : "STILL",
+        "probability" : 11.332990974187851
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 4.304761812090874
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 4.075516387820244
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 3.2783161848783493
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.9748998805880547
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.7988670840859413
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.36292134318500757
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.16071595018729568
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.06960174068808556
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.031065833172760904
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0157744056195952
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0031244355341186747
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.00227163836825639
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.776650482403056E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 229284515,
+          "lngE7" : 1202555541
+        }, {
+          "latE7" : 227937641,
+          "lngE7" : 1203189315
+        }, {
+          "latE7" : 226265354,
+          "lngE7" : 1203366775
+        }, {
+          "latE7" : 226239166,
+          "lngE7" : 1203364486
+        }, {
+          "latE7" : 226251792,
+          "lngE7" : 1203327026
+        }, {
+          "latE7" : 226245574,
+          "lngE7" : 1203308181
+        }, {
+          "latE7" : 226228790,
+          "lngE7" : 1203309860
+        }, {
+          "latE7" : 226181545,
+          "lngE7" : 1203320388
+        }, {
+          "latE7" : 226042098,
+          "lngE7" : 1203321228
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226265793,
+          "lngE7" : 1203366928,
+          "timestampMs" : "1610151750001",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 226254635,
+          "lngE7" : 1203329086,
+          "timestampMs" : "1610151870125",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 226228733,
+          "lngE7" : 1203309708,
+          "timestampMs" : "1610152028577",
+          "accuracyMeters" : 15
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1610152368573",
+        "location" : {
+          "latitudeE7" : 226042522,
+          "longitudeE7" : 1203320886,
+          "accuracyMetres" : 78
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 49.759125
+      },
+      "duration" : {
+        "startTimestampMs" : "1610152368573",
+        "endTimestampMs" : "1610154057004"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226044467,
+      "centerLngE7" : 1203320733,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 7.204382
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "locationConfidence" : 2.7009695
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 2.0207827
+      }, {
+        "latitudeE7" : 226054019,
+        "longitudeE7" : 1203317513,
+        "placeId" : "ChIJXb-Q5lkDbjQRzh_4RvMVF7s",
+        "address" : "806台灣高雄市前鎮區瑞隆路347號",
+        "name" : "味亦美早餐店瑞隆店",
+        "locationConfidence" : 0.88342226
+      }, {
+        "latitudeE7" : 226056060,
+        "longitudeE7" : 1203318630,
+        "placeId" : "ChIJFwTa31kDbjQRuTGOkRS84gY",
+        "locationConfidence" : 0.68821067
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226044976,
+        "longitudeE7" : 1203317272,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226610984,
+        "longitudeE7" : 1203071843,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610154057004",
+        "endTimestampMs" : "1610155776224"
+      },
+      "distance" : 8229,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 64.40768241882324
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 26.75347328186035
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.0496297404170036
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.2216489538550377
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.5311307273805141
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1915653944015503
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.39739892818033695
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.20328634418547153
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.1799756777472794
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.041838688775897026
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.017369884881190956
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002790315556921996
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0015527702998952009
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 5.810053153254557E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.001498261161032E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226045360,
+          "lngE7" : 1203317794
+        }, {
+          "latE7" : 226086750,
+          "lngE7" : 1203165664
+        }, {
+          "latE7" : 226098518,
+          "lngE7" : 1203138122
+        }, {
+          "latE7" : 226221122,
+          "lngE7" : 1203013534
+        }, {
+          "latE7" : 226611118,
+          "lngE7" : 1203071823
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226098442,
+          "lngE7" : 1203138123,
+          "timestampMs" : "1610154708674",
+          "accuracyMeters" : 27
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1610155908756",
+        "location" : {
+          "latitudeE7" : 226610889,
+          "longitudeE7" : 1203074563,
+          "accuracyMetres" : 125
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226608430,
+        "longitudeE7" : 1203075900,
+        "placeId" : "ChIJOfHcN_EFbjQRWJNdGWEGPnA",
+        "address" : "813台灣高雄市左營區明誠二路369號\n2樓",
+        "name" : "大都會網路電競館-明誠店",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 94.007195
+      },
+      "duration" : {
+        "startTimestampMs" : "1610155776224",
+        "endTimestampMs" : "1610171662759"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 226610900,
+      "centerLngE7" : 1203073733,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226609226,
+        "longitudeE7" : 1203074551,
+        "placeId" : "ChIJ9fzVdN4FbjQRJTOr0ST6TbA",
+        "locationConfidence" : 0.4381279
+      }, {
+        "latitudeE7" : 226612951,
+        "longitudeE7" : 1203072171,
+        "placeId" : "ChIJz4w3FAMFbjQRXrpAEts6CGA",
+        "locationConfidence" : 0.33189023
+      }, {
+        "latitudeE7" : 226608430,
+        "longitudeE7" : 1203075900,
+        "placeId" : "ChIJ_bwqGAMFbjQRusg_jzUHTUU",
+        "locationConfidence" : 0.3138335
+      }, {
+        "latitudeE7" : 226612288,
+        "longitudeE7" : 1203073165,
+        "placeId" : "ChIJFc-5FQMFbjQRtSCpAOYzh0A",
+        "locationConfidence" : 0.25514045
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226610887,
+        "longitudeE7" : 1203066932,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226442798,
+        "longitudeE7" : 1202991050,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610171662759",
+        "endTimestampMs" : "1610172470021"
+      },
+      "distance" : 2368,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 52.979469299316406
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.47790277004242
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.4441005885601044
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.0244663804769516
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8913212455809116
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.47124926932156086
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.44523305259644985
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.10056023020297289
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.09335779468528926
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05573504022322595
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.013686572492588311
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0019127472114632837
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 5.91205252931104E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 3.5468617625156185E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.484264988808718E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226610546,
+          "lngE7" : 1203066940
+        }, {
+          "latE7" : 226595153,
+          "lngE7" : 1203030319
+        }, {
+          "latE7" : 226586360,
+          "lngE7" : 1203030014
+        }, {
+          "latE7" : 226536769,
+          "lngE7" : 1203035354
+        }, {
+          "latE7" : 226442737,
+          "lngE7" : 1202991027
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226586323,
+          "lngE7" : 1203030853,
+          "timestampMs" : "1610171848338",
+          "accuracyMeters" : 12
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1610173052794",
+        "location" : {
+          "latitudeE7" : 226443030,
+          "longitudeE7" : 1202991610,
+          "accuracyMetres" : 80
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226443529,
+        "longitudeE7" : 1202991468,
+        "placeId" : "ChIJh4_Fa_YEbjQR7yV29HVVd3Y",
+        "address" : "807台灣三民區熱河二街138號",
+        "name" : "利仁蔘藥行",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 97.16133
+      },
+      "duration" : {
+        "startTimestampMs" : "1610172470021",
+        "endTimestampMs" : "1610173052794"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 226442850,
+      "centerLngE7" : 1202991300,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226441677,
+        "longitudeE7" : 1202990305,
+        "placeId" : "ChIJWZ8bGYsEbjQRvvdodVZ_2YM",
+        "locationConfidence" : 0.6627351
+      }, {
+        "latitudeE7" : 226442030,
+        "longitudeE7" : 1202990580,
+        "placeId" : "ChIJT2ZhbPYEbjQRXzIyqQA6d6c",
+        "locationConfidence" : 0.23446977
+      }, {
+        "latitudeE7" : 226431300,
+        "longitudeE7" : 1202983220,
+        "placeId" : "ChIJI0B74_UEbjQRDxDXkSdBDgI",
+        "locationConfidence" : 0.21157861
+      }, {
+        "latitudeE7" : 226441612,
+        "longitudeE7" : 1202995834,
+        "placeId" : "ChIJn9EPZvYEbjQRPWdOHcnE7jA",
+        "locationConfidence" : 0.19447505
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226443030,
+        "longitudeE7" : 1202991610,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226056247,
+        "longitudeE7" : 1203328730,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610173052794",
+        "endTimestampMs" : "1610178633362"
+      },
+      "distance" : 9358,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 53.62353324890137
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 41.63479506969452
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.19462551176548
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.7609458640217781
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6687919609248638
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.4412369802594185
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.29694729018956423
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.20062916446477175
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.11751620331779122
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.040314445504918694
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.018003798322752118
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.001593152956047561
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 7.300154720724095E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 2.2764950244891224E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.1500156915644766E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226442699,
+          "lngE7" : 1202991638
+        }, {
+          "latE7" : 226383075,
+          "lngE7" : 1202923660
+        }, {
+          "latE7" : 226309909,
+          "lngE7" : 1202813644
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1610178633362",
+        "location" : {
+          "latitudeE7" : 226056247,
+          "longitudeE7" : 1203328730,
+          "accuracyMetres" : 83
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 42.483253
+      },
+      "duration" : {
+        "startTimestampMs" : "1610178633362",
+        "endTimestampMs" : "1610180604415"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 226057367,
+      "centerLngE7" : 1203331533,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226057429,
+        "longitudeE7" : 1203330589,
+        "placeId" : "ChIJA6WkblcDbjQRKEtbRges5K0",
+        "locationConfidence" : 32.90693
+      }, {
+        "latitudeE7" : 226057419,
+        "longitudeE7" : 1203330036,
+        "placeId" : "ChIJM3G0blcDbjQRQ_DxBlDYaXQ",
+        "locationConfidence" : 4.514353
+      }, {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 2.4503047
+      }, {
+        "latitudeE7" : 226057790,
+        "longitudeE7" : 1203341140,
+        "placeId" : "ChIJmbQdEFcDbjQRT6s45ZAUtBg",
+        "locationConfidence" : 2.161132
+      }, {
+        "latitudeE7" : 226054808,
+        "longitudeE7" : 1203333028,
+        "placeId" : "ChIJgdQNPvoDbjQRupfzZHFUV2E",
+        "locationConfidence" : 1.9684066
+      }, {
+        "latitudeE7" : 226055100,
+        "longitudeE7" : 1203331040,
+        "placeId" : "ChIJ90LVa1cDbjQReYHuDecXHys",
+        "locationConfidence" : 1.1544807
+      }, {
+        "latitudeE7" : 226048760,
+        "longitudeE7" : 1203337907,
+        "placeId" : "ChIJTwKgclcDbjQRoPn4AmW9clE",
+        "locationConfidence" : 1.1536597
+      }, {
+        "latitudeE7" : 226058615,
+        "longitudeE7" : 1203337086,
+        "placeId" : "ChIJJbRuElcDbjQRTvxICMudh7Y",
+        "locationConfidence" : 1.0492355
+      }, {
+        "latitudeE7" : 226057700,
+        "longitudeE7" : 1203333450,
+        "placeId" : "ChIJe7webVcDbjQRRTZMCQ1UnwI",
+        "locationConfidence" : 0.8551372
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226054576,
+        "longitudeE7" : 1203313957,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226054247,
+        "longitudeE7" : 1203302945,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610251661999",
+        "endTimestampMs" : "1610251959288"
+      },
+      "distance" : 113,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 65.39355516433716
+      }, {
+        "activityType" : "STILL",
+        "probability" : 25.15474259853363
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.703947365283966
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.295408211648464
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.9749656319618225
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.7176938001066446
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.40722908452153206
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.20082767587155104
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.09953543776646256
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.014806396211497486
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.013642125122714788
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.010928832489298657
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.009439022687729448
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030354120099218562
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.4761211534496397E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226055164,
+          "lngE7" : 1203313980
+        }, {
+          "latE7" : 226054954,
+          "lngE7" : 1203310775
+        }, {
+          "latE7" : 226054325,
+          "lngE7" : 1203302917
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226043269,
+        "longitudeE7" : 1203324069,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226262802,
+        "longitudeE7" : 1203366853,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610262892641",
+        "endTimestampMs" : "1610269035107"
+      },
+      "distance" : 3973,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 49.46829378604889
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 16.945825517177582
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 14.449872076511383
+      }, {
+        "activityType" : "STILL",
+        "probability" : 8.151262253522873
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.109883219003677
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.2133271433413029
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.1166605167090893
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.18390003824606538
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.13613059418275952
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.11481610126793385
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.07357942522503436
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.02512827340979129
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.007378512964351103
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0038050809962442145
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.393633397128724E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226043682,
+          "lngE7" : 1203323745
+        }, {
+          "latE7" : 226029777,
+          "lngE7" : 1203323669
+        }, {
+          "latE7" : 226000118,
+          "lngE7" : 1203279800
+        }, {
+          "latE7" : 226015758,
+          "lngE7" : 1203268356
+        }, {
+          "latE7" : 226025238,
+          "lngE7" : 1203276901
+        }, {
+          "latE7" : 226212024,
+          "lngE7" : 1203360671
+        }, {
+          "latE7" : 226262874,
+          "lngE7" : 1203365859
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 225999794,
+          "lngE7" : 1203280792,
+          "timestampMs" : "1610265871709",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 226025047,
+          "lngE7" : 1203275604,
+          "timestampMs" : "1610266525999",
+          "accuracyMeters" : 26
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1610269035107",
+        "location" : {
+          "latitudeE7" : 226262802,
+          "longitudeE7" : 1203366853,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226262338,
+        "longitudeE7" : 1203379046,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 234095018,
+        "longitudeE7" : 1204437188,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610270785366",
+        "endTimestampMs" : "1610276801050"
+      },
+      "distance" : 92602,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 69.63503956794739
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 12.150321155786514
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 9.892550110816956
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.340284645557404
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6913745775818825
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.5549827124923468
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.26651567313820124
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.18962599569931626
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.14186096377670765
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.10882000206038356
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.02165290788980201
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0025176917915814556
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0022428930606110953
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002062328530882951
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.457186954212375E-4
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 227400043,
+        "longitudeE7" : 1203369689,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226724522,
+        "longitudeE7" : 1203289979,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610754086942",
+        "endTimestampMs" : "1610754947982"
+      },
+      "distance" : 2831,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.641472816467285
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 17.043721675872803
+      }, {
+        "activityType" : "STILL",
+        "probability" : 16.51959866285324
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 12.803743779659271
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.422661826014519
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.907252684235573
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 1.0240226052701473
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.7903861813247204
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.5789481569081545
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.11436413042247295
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.10424547363072634
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0354375340975821
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.007756443665130064
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006136133015388623
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.4725466118979966E-4
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 227342333,
+          "lngE7" : 1203337851,
+          "timestampMs" : "1610754246642",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 227309120,
+          "lngE7" : 1203359429,
+          "timestampMs" : "1610754479665",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 227173014,
+          "lngE7" : 1203312828,
+          "timestampMs" : "1610754754174",
+          "accuracyMeters" : 14
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1610754947982",
+        "location" : {
+          "latitudeE7" : 226724522,
+          "longitudeE7" : 1203289979,
+          "accuracyMetres" : 79
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226040785,
+        "longitudeE7" : 1203296214,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226260749,
+        "longitudeE7" : 1203386003,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610870801627",
+        "endTimestampMs" : "1610874191000"
+      },
+      "distance" : 4013,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.67767369747162
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 32.63040482997894
+      }, {
+        "activityType" : "STILL",
+        "probability" : 10.892636328935623
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 6.415453553199768
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.21680323779583
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.2124022245407104
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.616054143756628
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.12049571378156543
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.07467767572961748
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.06784514407627285
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05750223062932491
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.007374989945674315
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006091590694268234
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004493510277825408
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.405363018937351E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226040363,
+          "lngE7" : 1203295593
+        }, {
+          "latE7" : 226079978,
+          "lngE7" : 1203306121
+        }, {
+          "latE7" : 226087856,
+          "lngE7" : 1203299331
+        }, {
+          "latE7" : 226064949,
+          "lngE7" : 1203288879
+        }, {
+          "latE7" : 226053218,
+          "lngE7" : 1203288650
+        }, {
+          "latE7" : 226054382,
+          "lngE7" : 1203303756
+        }, {
+          "latE7" : 226043186,
+          "lngE7" : 1203322982
+        }, {
+          "latE7" : 226056137,
+          "lngE7" : 1203329086
+        }, {
+          "latE7" : 226126670,
+          "lngE7" : 1203371887
+        }, {
+          "latE7" : 226208248,
+          "lngE7" : 1203361206
+        }, {
+          "latE7" : 226260051,
+          "lngE7" : 1203385696
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226088238,
+          "lngE7" : 1203303986,
+          "timestampMs" : "1610871175555",
+          "accuracyMeters" : 49
+        }, {
+          "latE7" : 226053829,
+          "lngE7" : 1203288651,
+          "timestampMs" : "1610871727437",
+          "accuracyMeters" : 27
+        }, {
+          "latE7" : 226043262,
+          "lngE7" : 1203322067,
+          "timestampMs" : "1610872313218",
+          "accuracyMeters" : 65
+        }, {
+          "latE7" : 226126328,
+          "lngE7" : 1203371811,
+          "timestampMs" : "1610873712389",
+          "accuracyMeters" : 18
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1610874191000",
+        "location" : {
+          "latitudeE7" : 226260749,
+          "longitudeE7" : 1203386003,
+          "accuracyMetres" : 77
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226263770,
+        "longitudeE7" : 1203386201,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 227593594,
+        "longitudeE7" : 1203816874,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1610875038386",
+        "endTimestampMs" : "1610877414303"
+      },
+      "distance" : 15801,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 59.26359295845032
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 23.928380012512207
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 7.204651832580566
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.268077343702316
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.218978501856327
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.5263001658022404
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.5154808517545462
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.4343958105891943
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.4325834568589926
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.13754040701314807
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05619637086056173
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005898348899791017
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004219843322061934
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.003340131661389023
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.738396571861813E-4
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226049504,
+        "longitudeE7" : 1203040094,
+        "placeId" : "ChIJJUbaP3oDbjQRnECumnajEWI",
+        "address" : "806台灣高雄市前鎮區中華五路1111號",
+        "name" : "Carrefour Chenggong Store",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 64.506775
+      },
+      "duration" : {
+        "startTimestampMs" : "1611395048133",
+        "endTimestampMs" : "1611395998418"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226053500,
+      "centerLngE7" : 1203045650,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226057060,
+        "longitudeE7" : 1203039300,
+        "placeId" : "ChIJGy1pbXoDbjQRJGpSyAiT7hs",
+        "address" : "806台灣高雄市前鎮區中華五路1201號",
+        "name" : "IKEA Kaohsiung",
+        "locationConfidence" : 23.26861
+      }, {
+        "latitudeE7" : 226039397,
+        "longitudeE7" : 1203037054,
+        "placeId" : "ChIJfRtAsHADbjQR3OvxohY9haM",
+        "locationConfidence" : 1.5704364
+      }, {
+        "latitudeE7" : 226042929,
+        "longitudeE7" : 1203047729,
+        "placeId" : "ChIJMcdUnnADbjQRedFydek3oXA",
+        "locationConfidence" : 0.69783926
+      }, {
+        "latitudeE7" : 226037750,
+        "longitudeE7" : 1203062580,
+        "placeId" : "ChIJrWyRfXADbjQR6JPPdJye4wE",
+        "locationConfidence" : 0.6170422
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226057060,
+        "longitudeE7" : 1203039300,
+        "placeId" : "ChIJGy1pbXoDbjQRJGpSyAiT7hs",
+        "address" : "806台灣高雄市前鎮區中華五路1201號",
+        "name" : "IKEA Kaohsiung",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 36.989758
+      },
+      "duration" : {
+        "startTimestampMs" : "1611395998418",
+        "endTimestampMs" : "1611449148823"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226058971,
+      "centerLngE7" : 1203046266,
+      "visitConfidence" : 65,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226049504,
+        "longitudeE7" : 1203040094,
+        "placeId" : "ChIJJUbaP3oDbjQRnECumnajEWI",
+        "address" : "806台灣高雄市前鎮區中華五路1111號",
+        "name" : "Carrefour Chenggong Store",
+        "locationConfidence" : 18.48127
+      }, {
+        "latitudeE7" : 226054560,
+        "longitudeE7" : 1203242799,
+        "placeId" : "ChIJi7AYf5oDbjQRsg_9k_x-j84",
+        "locationConfidence" : 7.7097626
+      }, {
+        "latitudeE7" : 226046264,
+        "longitudeE7" : 1203245996,
+        "placeId" : "ChIJDVP_PlwDbjQREw_3ChDoMq8",
+        "locationConfidence" : 6.4621687
+      }, {
+        "latitudeE7" : 226050210,
+        "longitudeE7" : 1203244143,
+        "placeId" : "ChIJx86kywIDbjQRPfXZFTTraJI",
+        "locationConfidence" : 3.7920237
+      }, {
+        "latitudeE7" : 226051000,
+        "longitudeE7" : 1203242831,
+        "placeId" : "ChIJEVOL_hUDbjQRYMD0lY8BMGY",
+        "locationConfidence" : 3.0474095
+      }, {
+        "latitudeE7" : 226056028,
+        "longitudeE7" : 1203246570,
+        "placeId" : "ChIJS1lFIFwDbjQRiUbI--0LT2g",
+        "locationConfidence" : 2.5707722
+      }, {
+        "latitudeE7" : 226049050,
+        "longitudeE7" : 1203253380,
+        "placeId" : "ChIJjdDfEFwDbjQRGkL89Kyl8NM",
+        "locationConfidence" : 1.7827749
+      }, {
+        "latitudeE7" : 226049403,
+        "longitudeE7" : 1203254047,
+        "placeId" : "ChIJlw9xEFwDbjQR246trHc2cEw",
+        "locationConfidence" : 1.6877145
+      }, {
+        "latitudeE7" : 226039397,
+        "longitudeE7" : 1203037054,
+        "placeId" : "ChIJfRtAsHADbjQR3OvxohY9haM",
+        "locationConfidence" : 1.5479058
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226054019,
+        "longitudeE7" : 1203317513,
+        "placeId" : "ChIJXb-Q5lkDbjQRzh_4RvMVF7s",
+        "address" : "806台灣高雄市前鎮區瑞隆路347號",
+        "name" : "味亦美早餐店瑞隆店",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 38.920403
+      },
+      "duration" : {
+        "startTimestampMs" : "1611449148823",
+        "endTimestampMs" : "1611485115091"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226053700,
+      "centerLngE7" : 1203316600,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226054796,
+        "longitudeE7" : 1203319837,
+        "placeId" : "ChIJcfEi4FkDbjQRS2mpHSDjHW8",
+        "locationConfidence" : 8.8160515
+      }, {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 5.8692904
+      }, {
+        "latitudeE7" : 226056060,
+        "longitudeE7" : 1203318630,
+        "placeId" : "ChIJFwTa31kDbjQRuTGOkRS84gY",
+        "locationConfidence" : 5.7688355
+      }, {
+        "latitudeE7" : 226043720,
+        "longitudeE7" : 1203318634,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "locationConfidence" : 4.0693254
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "locationConfidence" : 1.9537032
+      }, {
+        "latitudeE7" : 226056572,
+        "longitudeE7" : 1203314183,
+        "placeId" : "ChIJG_SO51kDbjQRO_FudyDbzOE",
+        "locationConfidence" : 1.8106133
+      }, {
+        "latitudeE7" : 226056720,
+        "longitudeE7" : 1203317350,
+        "placeId" : "ChIJvcmp4gsDbjQRXQJHAmym1VY",
+        "locationConfidence" : 1.6179055
+      }, {
+        "latitudeE7" : 226053729,
+        "longitudeE7" : 1203310722,
+        "placeId" : "ChIJyRC_31kDbjQRrWMJKUMg9SI",
+        "address" : "806台灣高雄市前鎮區瑞隆路371號",
+        "name" : "超美牙醫診所",
+        "locationConfidence" : 1.5945524
+      }, {
+        "latitudeE7" : 226054170,
+        "longitudeE7" : 1203318769,
+        "placeId" : "ChIJ6RGt4VkDbjQRBHR51wukMrw",
+        "locationConfidence" : 1.325506
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226184340,
+        "longitudeE7" : 1203030680,
+        "placeId" : "ChIJL6Ozf4EEbjQRS8RioiQJ7cI",
+        "address" : "802台灣高雄市苓雅區中山二路410號\n7樓",
+        "name" : "美力健身房",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 50.336636
+      },
+      "duration" : {
+        "startTimestampMs" : "1611572814634",
+        "endTimestampMs" : "1611572944000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226189734,
+      "centerLngE7" : 1203024203,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226184039,
+        "longitudeE7" : 1203033045,
+        "placeId" : "ChIJPSUFpdQFbjQRqvvpn-OOgR4",
+        "locationConfidence" : 7.8873806
+      }, {
+        "latitudeE7" : 226189639,
+        "longitudeE7" : 1203028530,
+        "placeId" : "ChIJddFUY4EEbjQRjf2u-R87X6k",
+        "locationConfidence" : 3.532489
+      }, {
+        "latitudeE7" : 226182290,
+        "longitudeE7" : 1203031480,
+        "placeId" : "ChIJaxgFgIEEbjQRJ54IEvVDX2A",
+        "locationConfidence" : 2.463882
+      }, {
+        "latitudeE7" : 226182738,
+        "longitudeE7" : 1203045959,
+        "placeId" : "ChIJfxXeyYMEbjQRXgau72exjwo",
+        "locationConfidence" : 1.3729808
+      }, {
+        "latitudeE7" : 226186920,
+        "longitudeE7" : 1203029534,
+        "placeId" : "ChIJ7e2gRosEbjQRmZT7mQIqMVY",
+        "locationConfidence" : 1.2478362
+      }, {
+        "latitudeE7" : 226188164,
+        "longitudeE7" : 1203035398,
+        "placeId" : "ChIJ0VcM14MEbjQRMhWbplpzCJU",
+        "locationConfidence" : 1.2135795
+      }, {
+        "latitudeE7" : 226191180,
+        "longitudeE7" : 1203021920,
+        "placeId" : "ChIJj_IObX4EbjQRYYqVjqD2ysg",
+        "locationConfidence" : 1.1583483
+      }, {
+        "latitudeE7" : 226184340,
+        "longitudeE7" : 1203030680,
+        "placeId" : "ChIJ9Ym154AEbjQRIR7ZlUfk3eE",
+        "locationConfidence" : 1.0907845
+      }, {
+        "latitudeE7" : 226179859,
+        "longitudeE7" : 1203032437,
+        "placeId" : "ChIJ3S1tKoIEbjQReQwU89GY4oU",
+        "locationConfidence" : 0.7422351
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 36.35707
+      },
+      "duration" : {
+        "startTimestampMs" : "1611731584232",
+        "endTimestampMs" : "1611815212943"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226043567,
+      "centerLngE7" : 1203319633,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 6.0430984
+      }, {
+        "latitudeE7" : 226057429,
+        "longitudeE7" : 1203330589,
+        "placeId" : "ChIJA6WkblcDbjQRKEtbRges5K0",
+        "locationConfidence" : 1.1311028
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 0.88837945
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "locationConfidence" : 0.8750883
+      }, {
+        "latitudeE7" : 226053729,
+        "longitudeE7" : 1203310722,
+        "placeId" : "ChIJyRC_31kDbjQRrWMJKUMg9SI",
+        "address" : "806台灣高雄市前鎮區瑞隆路371號",
+        "name" : "超美牙醫診所",
+        "locationConfidence" : 0.7538901
+      }, {
+        "latitudeE7" : 226056966,
+        "longitudeE7" : 1203325640,
+        "placeId" : "ChIJbxaIZlcDbjQR6Y2eBPRAcGo",
+        "locationConfidence" : 0.54677355
+      }, {
+        "latitudeE7" : 226044301,
+        "longitudeE7" : 1203318188,
+        "placeId" : "ChIJA4YB_1kDbjQRkSa2H-19B7Y",
+        "locationConfidence" : 0.5200679
+      }, {
+        "latitudeE7" : 226043110,
+        "longitudeE7" : 1203316580,
+        "placeId" : "ChIJEzSr-FkDbjQRR6GzeP4oZPo",
+        "locationConfidence" : 0.48059234
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226053358,
+        "longitudeE7" : 1203310697,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226102293,
+        "longitudeE7" : 1203021497,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1611815212943",
+        "endTimestampMs" : "1611817809798"
+      },
+      "distance" : 6339,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 48.62685799598694
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.17760992050171
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 9.825696051120758
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.783746719360352
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.05627915263176
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.1380532532930374
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.0383134707808495
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.12122442713007331
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.09120726608671248
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08285983931273222
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04785047494806349
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003849613858619705
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.003831514186458662
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.002364935426157899
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.5561644179106224E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226054954,
+          "lngE7" : 1203310546
+        }, {
+          "latE7" : 226079978,
+          "lngE7" : 1203306121
+        }, {
+          "latE7" : 226111602,
+          "lngE7" : 1203303375
+        }, {
+          "latE7" : 226118373,
+          "lngE7" : 1203268203
+        }, {
+          "latE7" : 226180610,
+          "lngE7" : 1203179244
+        }, {
+          "latE7" : 226256351,
+          "lngE7" : 1203084411
+        }, {
+          "latE7" : 226252460,
+          "lngE7" : 1203072586
+        }, {
+          "latE7" : 226245784,
+          "lngE7" : 1203063201
+        }, {
+          "latE7" : 226194419,
+          "lngE7" : 1203083572
+        }, {
+          "latE7" : 226186962,
+          "lngE7" : 1203079147
+        }, {
+          "latE7" : 226112442,
+          "lngE7" : 1203027572
+        }, {
+          "latE7" : 226108341,
+          "lngE7" : 1203030242
+        }, {
+          "latE7" : 226089324,
+          "lngE7" : 1203017349
+        }, {
+          "latE7" : 226091785,
+          "lngE7" : 1202996139
+        }, {
+          "latE7" : 226108417,
+          "lngE7" : 1203019332
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226110287,
+          "lngE7" : 1203304291,
+          "timestampMs" : "1611815351139",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 226180878,
+          "lngE7" : 1203180084,
+          "timestampMs" : "1611815841383",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 226251507,
+          "lngE7" : 1203073044,
+          "timestampMs" : "1611816186871",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 226194038,
+          "lngE7" : 1203082352,
+          "timestampMs" : "1611816468167",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 226113167,
+          "lngE7" : 1203028183,
+          "timestampMs" : "1611817265338",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 226089478,
+          "lngE7" : 1203019638,
+          "timestampMs" : "1611817472222",
+          "accuracyMeters" : 28
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1611817947602",
+        "location" : {
+          "latitudeE7" : 226107158,
+          "longitudeE7" : 1203018668,
+          "accuracyMetres" : 82
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226102306,
+        "longitudeE7" : 1203017500,
+        "placeId" : "ChIJs8-NX5kMbjQRaOX5pOKc0mI",
+        "address" : "80661台灣高雄市前鎮區新光路61號",
+        "name" : "Kaohsiung Public Library",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 78.759926
+      },
+      "duration" : {
+        "startTimestampMs" : "1611817809798",
+        "endTimestampMs" : "1611830006082"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226104633,
+      "centerLngE7" : 1203019133,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226102344,
+        "longitudeE7" : 1203017432,
+        "placeId" : "ChIJfyQfA6wDbjQRjCsXlAFUrNg",
+        "locationConfidence" : 2.2215545
+      }, {
+        "latitudeE7" : 226115180,
+        "longitudeE7" : 1203003150,
+        "placeId" : "ChIJAZBaKn8DbjQRqpQI86o3ryg",
+        "locationConfidence" : 2.0630977
+      }, {
+        "latitudeE7" : 226100541,
+        "longitudeE7" : 1203018325,
+        "placeId" : "ChIJd7MTM3gDbjQRJWuU02FoOi4",
+        "locationConfidence" : 0.6220107
+      }, {
+        "latitudeE7" : 226117887,
+        "longitudeE7" : 1203018460,
+        "placeId" : "ChIJm1_zlX4DbjQRuX6P00ekfQ4",
+        "locationConfidence" : 0.5121534
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226104610,
+        "longitudeE7" : 1203017408,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226043794,
+        "longitudeE7" : 1203318802,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1611830006082",
+        "endTimestampMs" : "1611834738405"
+      },
+      "distance" : 5237,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 46.18489742279053
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 29.27514910697937
+      }, {
+        "activityType" : "STILL",
+        "probability" : 16.71571284532547
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.7869442477822304
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.748791314661503
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.4217719435691833
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.5429625045508146
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.10739435674622655
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0833128287922591
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.07366225472651422
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04791038518305868
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005626798156299628
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.00391348876291886
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0016185096683329903
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.343247044540476E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226107559,
+          "lngE7" : 1203016357
+        }, {
+          "latE7" : 226147327,
+          "lngE7" : 1202974777
+        }, {
+          "latE7" : 226159057,
+          "lngE7" : 1202950820
+        }, {
+          "latE7" : 226051044,
+          "lngE7" : 1203246841
+        }, {
+          "latE7" : 226043910,
+          "lngE7" : 1203318939
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226157818,
+          "lngE7" : 1202951279,
+          "timestampMs" : "1611831517278",
+          "accuracyMeters" : 65
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1611834738405",
+        "location" : {
+          "latitudeE7" : 226043794,
+          "longitudeE7" : 1203318802,
+          "accuracyMetres" : 79
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 44.58794
+      },
+      "duration" : {
+        "startTimestampMs" : "1611834738405",
+        "endTimestampMs" : "1611842506061"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226044300,
+      "centerLngE7" : 1203320433,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 5.933249
+      }, {
+        "latitudeE7" : 226053729,
+        "longitudeE7" : 1203310722,
+        "placeId" : "ChIJyRC_31kDbjQRrWMJKUMg9SI",
+        "address" : "806台灣高雄市前鎮區瑞隆路371號",
+        "name" : "超美牙醫診所",
+        "locationConfidence" : 0.9252479
+      }, {
+        "latitudeE7" : 226053870,
+        "longitudeE7" : 1203312597,
+        "placeId" : "ChIJOeaZ6hsbbjQRhP5-aEtIHZQ",
+        "locationConfidence" : 0.89632106
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 0.5017002
+      }, {
+        "latitudeE7" : 226057429,
+        "longitudeE7" : 1203330589,
+        "placeId" : "ChIJA6WkblcDbjQRKEtbRges5K0",
+        "locationConfidence" : 0.48052973
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226044795,
+        "longitudeE7" : 1203325241,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226052701,
+        "longitudeE7" : 1203312722,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1611842506061",
+        "endTimestampMs" : "1611844647804"
+      },
+      "distance" : 3433,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 51.08762979507446
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.673813819885254
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.118175625801086
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.8317637741565704
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.9513286650180817
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.9645537473261356
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.15785811701789498
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.05464253481477499
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05345923127606511
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04927226109430194
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04441992205101997
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.008086382149485871
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0040321807318832725
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.155426596407779E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.151487698640267E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226044731,
+          "lngE7" : 1203325347
+        }, {
+          "latE7" : 226052265,
+          "lngE7" : 1203244018
+        }, {
+          "latE7" : 226104393,
+          "lngE7" : 1203173294
+        }, {
+          "latE7" : 226052761,
+          "lngE7" : 1203313522
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226104927,
+          "lngE7" : 1203171234,
+          "timestampMs" : "1611842966024",
+          "accuracyMeters" : 25
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1611844881453",
+        "location" : {
+          "latitudeE7" : 226041292,
+          "longitudeE7" : 1203320487,
+          "accuracyMetres" : 125
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 58.1652
+      },
+      "duration" : {
+        "startTimestampMs" : "1611844647804",
+        "endTimestampMs" : "1611892983282"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226052701,
+      "centerLngE7" : 1203312722,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 4.2385097
+      }, {
+        "latitudeE7" : 226053870,
+        "longitudeE7" : 1203312597,
+        "placeId" : "ChIJOeaZ6hsbbjQRhP5-aEtIHZQ",
+        "locationConfidence" : 1.650049
+      }, {
+        "latitudeE7" : 226053729,
+        "longitudeE7" : 1203310722,
+        "placeId" : "ChIJyRC_31kDbjQRrWMJKUMg9SI",
+        "address" : "806台灣高雄市前鎮區瑞隆路371號",
+        "name" : "超美牙醫診所",
+        "locationConfidence" : 1.4560562
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 1.3958598
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226053729,
+        "longitudeE7" : 1203310722,
+        "placeId" : "ChIJyRC_31kDbjQRrWMJKUMg9SI",
+        "address" : "806台灣高雄市前鎮區瑞隆路371號",
+        "name" : "超美牙醫診所",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 3.2851248
+      },
+      "duration" : {
+        "startTimestampMs" : "1611892983282",
+        "endTimestampMs" : "1611899693109"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 226067095,
+      "centerLngE7" : 1203212978,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226055600,
+        "longitudeE7" : 1203305130,
+        "placeId" : "ChIJP-eklFkDbjQRb5TX4VRdgu0",
+        "locationConfidence" : 2.0142674
+      }, {
+        "latitudeE7" : 226049708,
+        "longitudeE7" : 1203309412,
+        "placeId" : "ChIJBT_l81kDbjQROmXENPuYwwM",
+        "locationConfidence" : 1.6403258
+      }, {
+        "latitudeE7" : 226054019,
+        "longitudeE7" : 1203317513,
+        "placeId" : "ChIJXb-Q5lkDbjQRzh_4RvMVF7s",
+        "address" : "806台灣高雄市前鎮區瑞隆路347號",
+        "name" : "味亦美早餐店瑞隆店",
+        "locationConfidence" : 1.1582881
+      }, {
+        "latitudeE7" : 226063580,
+        "longitudeE7" : 1203306750,
+        "placeId" : "ChIJASsEtlkDbjQR_DSiS3LETH4",
+        "locationConfidence" : 1.0944456
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "locationConfidence" : 1.0730088
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 0.7134408
+      }, {
+        "latitudeE7" : 226044970,
+        "longitudeE7" : 1203309610,
+        "placeId" : "ChIJz8wO9lkDbjQRe7BtW06C0x4",
+        "locationConfidence" : 0.67088306
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226067095,
+        "longitudeE7" : 1203212978,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226088415,
+        "longitudeE7" : 1203017333,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1611899693109",
+        "endTimestampMs" : "1611900245035"
+      },
+      "distance" : 2148,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 45.49232721328735
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 33.49039554595947
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 10.986219346523285
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.5285744816064835
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.851608581840992
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.342015504837036
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.802691001445055
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.2557010389864445
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.10667910100892186
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07912219734862447
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.050455902237445116
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.008625394548289478
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0037501362385228276
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0018255701434100047
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.420823777692931E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226066303,
+          "lngE7" : 1203212509
+        }, {
+          "latE7" : 226086750,
+          "lngE7" : 1203165664
+        }, {
+          "latE7" : 226089324,
+          "lngE7" : 1203017349
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1611900459279",
+        "location" : {
+          "latitudeE7" : 226098720,
+          "longitudeE7" : 1203015936,
+          "accuracyMetres" : 90
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226102306,
+        "longitudeE7" : 1203017500,
+        "placeId" : "ChIJs8-NX5kMbjQRaOX5pOKc0mI",
+        "address" : "80661台灣高雄市前鎮區新光路61號",
+        "name" : "Kaohsiung Public Library",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 88.74108
+      },
+      "duration" : {
+        "startTimestampMs" : "1611900245035",
+        "endTimestampMs" : "1611917008730"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226097067,
+      "centerLngE7" : 1203016933,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226102344,
+        "longitudeE7" : 1203017432,
+        "placeId" : "ChIJfyQfA6wDbjQRjCsXlAFUrNg",
+        "locationConfidence" : 1.4904999
+      }, {
+        "latitudeE7" : 226102344,
+        "longitudeE7" : 1203017432,
+        "placeId" : "ChIJM2OjQHkDbjQRRDiuGve5IMM",
+        "locationConfidence" : 0.9834278
+      }, {
+        "latitudeE7" : 226115180,
+        "longitudeE7" : 1203003150,
+        "placeId" : "ChIJAZBaKn8DbjQRqpQI86o3ryg",
+        "locationConfidence" : 0.70109063
+      }, {
+        "latitudeE7" : 226100541,
+        "longitudeE7" : 1203018325,
+        "placeId" : "ChIJd7MTM3gDbjQRJWuU02FoOi4",
+        "locationConfidence" : 0.48167786
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226088571,
+        "longitudeE7" : 1203020404,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226051147,
+        "longitudeE7" : 1203312860,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1611917008730",
+        "endTimestampMs" : "1611921454304"
+      },
+      "distance" : 3801,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 41.964247822761536
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.07742881774902
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.645047903060913
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.971958488225937
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.5220999494194984
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0543407872319221
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.5335539113730192
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07632868364453316
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.06763111450709403
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.05862188991159201
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.01639152760617435
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.006468076753662899
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0032678992283763364
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002265136208734475
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.4954898637806764E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226090164,
+          "lngE7" : 1203019714
+        }, {
+          "latE7" : 226050701,
+          "lngE7" : 1203254470
+        }, {
+          "latE7" : 226042900,
+          "lngE7" : 1203322448
+        }, {
+          "latE7" : 226050891,
+          "lngE7" : 1203313674
+        }, {
+          "latE7" : 226051254,
+          "lngE7" : 1203313674
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226043549,
+          "lngE7" : 1203321991,
+          "timestampMs" : "1611917978515",
+          "accuracyMeters" : 65
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1611921605662",
+        "location" : {
+          "latitudeE7" : 226043339,
+          "longitudeE7" : 1203319429,
+          "accuracyMetres" : 125
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 44.4845
+      },
+      "duration" : {
+        "startTimestampMs" : "1611921454304",
+        "endTimestampMs" : "1611986255999"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226048224,
+      "centerLngE7" : 1203314997,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226053729,
+        "longitudeE7" : 1203310722,
+        "placeId" : "ChIJyRC_31kDbjQRrWMJKUMg9SI",
+        "address" : "806台灣高雄市前鎮區瑞隆路371號",
+        "name" : "超美牙醫診所",
+        "locationConfidence" : 7.0498095
+      }, {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 2.5269058
+      }, {
+        "latitudeE7" : 226053870,
+        "longitudeE7" : 1203312597,
+        "placeId" : "ChIJOeaZ6hsbbjQRhP5-aEtIHZQ",
+        "locationConfidence" : 1.6180515
+      }, {
+        "latitudeE7" : 226043110,
+        "longitudeE7" : 1203316580,
+        "placeId" : "ChIJEzSr-FkDbjQRR6GzeP4oZPo",
+        "locationConfidence" : 1.2956017
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "locationConfidence" : 0.97669035
+      }, {
+        "latitudeE7" : 226039150,
+        "longitudeE7" : 1203319670,
+        "placeId" : "ChIJPzuyAFoDbjQROTkjScvV3X8",
+        "locationConfidence" : 0.7492511
+      }, {
+        "latitudeE7" : 226054170,
+        "longitudeE7" : 1203318769,
+        "placeId" : "ChIJ6RGt4VkDbjQRBHR51wukMrw",
+        "locationConfidence" : 0.6066796
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 0.56763345
+      }, {
+        "latitudeE7" : 226035930,
+        "longitudeE7" : 1203317200,
+        "placeId" : "ChIJx56mCFoDbjQRD5GBy3G_oCk",
+        "locationConfidence" : 0.5460164
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226045860,
+        "longitudeE7" : 1203306881,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226087622,
+        "longitudeE7" : 1203018935,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1611986255999",
+        "endTimestampMs" : "1611986970527"
+      },
+      "distance" : 3516,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 54.76796627044678
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.183385014534
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 5.497479066252708
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.1423526108264923
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.1106982827186584
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.941067561507225
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.12423002626746893
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.12391235213726759
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07064596866257489
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.018959728186018765
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.009813340147957206
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004603048728313297
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0037685018469346687
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0010749269677035045
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.917264959658496E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226045780,
+          "lngE7" : 1203306961
+        }, {
+          "latE7" : 226033916,
+          "lngE7" : 1203241348
+        }, {
+          "latE7" : 226020965,
+          "lngE7" : 1203117904
+        }, {
+          "latE7" : 226053695,
+          "lngE7" : 1203088150
+        }, {
+          "latE7" : 226089591,
+          "lngE7" : 1203018112
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 226021328,
+          "lngE7" : 1203117599,
+          "timestampMs" : "1611986637379",
+          "accuracyMeters" : 9
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1611987108227",
+        "location" : {
+          "latitudeE7" : 226086833,
+          "longitudeE7" : 1203014477,
+          "accuracyMetres" : 71
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226102306,
+        "longitudeE7" : 1203017500,
+        "placeId" : "ChIJs8-NX5kMbjQRaOX5pOKc0mI",
+        "address" : "80661台灣高雄市前鎮區新光路61號",
+        "name" : "Kaohsiung Public Library",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 89.456245
+      },
+      "duration" : {
+        "startTimestampMs" : "1611986970527",
+        "endTimestampMs" : "1612004816203"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226096831,
+      "centerLngE7" : 1203015384,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226102344,
+        "longitudeE7" : 1203017432,
+        "placeId" : "ChIJfyQfA6wDbjQRjCsXlAFUrNg",
+        "locationConfidence" : 3.8880162
+      }, {
+        "latitudeE7" : 226115180,
+        "longitudeE7" : 1203003150,
+        "placeId" : "ChIJAZBaKn8DbjQRqpQI86o3ryg",
+        "locationConfidence" : 1.1388764
+      }, {
+        "latitudeE7" : 226102344,
+        "longitudeE7" : 1203017432,
+        "placeId" : "ChIJM2OjQHkDbjQRRDiuGve5IMM",
+        "locationConfidence" : 1.0830488
+      }, {
+        "latitudeE7" : 226100541,
+        "longitudeE7" : 1203018325,
+        "placeId" : "ChIJd7MTM3gDbjQRJWuU02FoOi4",
+        "locationConfidence" : 0.3137841
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226087349,
+        "longitudeE7" : 1203013361,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226042603,
+        "longitudeE7" : 1203319695,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612004816203",
+        "endTimestampMs" : "1612005891427"
+      },
+      "distance" : 3380,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 58.817481994628906
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.61064696311951
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.424192801117897
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.6068099066615105
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.2364461086690426
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.0437006130814552
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.10079287458211184
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.07048367406241596
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.055003404850140214
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.020740777836181223
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.008877353684511036
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.00234454964811448
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.001513426559540676
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 8.812218766252045E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.421387178714212E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226087379,
+          "lngE7" : 1203013534
+        }, {
+          "latE7" : 226050701,
+          "lngE7" : 1203254470
+        }, {
+          "latE7" : 226042728,
+          "lngE7" : 1203319931
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1612005891427",
+        "location" : {
+          "latitudeE7" : 226042603,
+          "longitudeE7" : 1203319695,
+          "accuracyMetres" : 76
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 54.034306
+      },
+      "duration" : {
+        "startTimestampMs" : "1612005891427",
+        "endTimestampMs" : "1612007302660"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226048650,
+      "centerLngE7" : 1203315000,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226053729,
+        "longitudeE7" : 1203310722,
+        "placeId" : "ChIJyRC_31kDbjQRrWMJKUMg9SI",
+        "address" : "806台灣高雄市前鎮區瑞隆路371號",
+        "name" : "超美牙醫診所",
+        "locationConfidence" : 7.8724475
+      }, {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 3.6840649
+      }, {
+        "latitudeE7" : 226054170,
+        "longitudeE7" : 1203318769,
+        "placeId" : "ChIJ6RGt4VkDbjQRBHR51wukMrw",
+        "locationConfidence" : 1.8579841
+      }, {
+        "latitudeE7" : 226053870,
+        "longitudeE7" : 1203312597,
+        "placeId" : "ChIJOeaZ6hsbbjQRhP5-aEtIHZQ",
+        "locationConfidence" : 1.8093586
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 1.6732216
+      }, {
+        "latitudeE7" : 226053697,
+        "longitudeE7" : 1203313278,
+        "placeId" : "ChIJdSQ1bUUDbjQRVIdNZlFucpQ",
+        "locationConfidence" : 0.9927362
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "locationConfidence" : 0.9092599
+      }, {
+        "latitudeE7" : 226063580,
+        "longitudeE7" : 1203306750,
+        "placeId" : "ChIJASsEtlkDbjQR_DSiS3LETH4",
+        "locationConfidence" : 0.8002609
+      }, {
+        "latitudeE7" : 226040220,
+        "longitudeE7" : 1203316040,
+        "placeId" : "ChIJ81y46wIDbjQRdtopl7khvuQ",
+        "locationConfidence" : 0.59853196
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226054796,
+        "longitudeE7" : 1203310402,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226186103,
+        "longitudeE7" : 1203037020,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612007302660",
+        "endTimestampMs" : "1612007992628"
+      },
+      "distance" : 3282,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 57.19451904296875
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.38824415206909
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.418479323387146
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.211211994290352
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.6182713210582733
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.5839740633964539
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.35537779331207275
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.1275183167308569
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0451893953140825
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04105528350919485
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.008086729212664068
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.005088938269182108
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0020818577468162403
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 8.213476576202083E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.132905122693046E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226054935,
+          "lngE7" : 1203310394
+        }, {
+          "latE7" : 226157131,
+          "lngE7" : 1203038330
+        }, {
+          "latE7" : 226186065,
+          "lngE7" : 1203036956
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1612008156800",
+        "location" : {
+          "latitudeE7" : 226187478,
+          "longitudeE7" : 1203029803,
+          "accuracyMetres" : 84
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226184340,
+        "longitudeE7" : 1203030680,
+        "placeId" : "ChIJL6Ozf4EEbjQRS8RioiQJ7cI",
+        "address" : "802台灣高雄市苓雅區中山二路410號\n7樓",
+        "name" : "美力健身房",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 61.132984
+      },
+      "duration" : {
+        "startTimestampMs" : "1612007992628",
+        "endTimestampMs" : "1612014439000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226186100,
+      "centerLngE7" : 1203035175,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226182738,
+        "longitudeE7" : 1203045959,
+        "placeId" : "ChIJfxXeyYMEbjQRXgau72exjwo",
+        "locationConfidence" : 13.906388
+      }, {
+        "latitudeE7" : 226186920,
+        "longitudeE7" : 1203029534,
+        "placeId" : "ChIJ7e2gRosEbjQRmZT7mQIqMVY",
+        "locationConfidence" : 5.9993963
+      }, {
+        "latitudeE7" : 226188046,
+        "longitudeE7" : 1203034909,
+        "placeId" : "ChIJ0VcM14MEbjQRMhWbplpzCJU",
+        "locationConfidence" : 5.0207844
+      }, {
+        "latitudeE7" : 226187693,
+        "longitudeE7" : 1203033210,
+        "placeId" : "ChIJoWONHZsEbjQRqM8TIE0t02U",
+        "locationConfidence" : 2.4183016
+      }, {
+        "latitudeE7" : 226184590,
+        "longitudeE7" : 1203035629,
+        "placeId" : "ChIJKeL204MEbjQRJmFx-Ll9GQo",
+        "locationConfidence" : 2.0760703
+      }, {
+        "latitudeE7" : 226182290,
+        "longitudeE7" : 1203031480,
+        "placeId" : "ChIJaxgFgIEEbjQRJ54IEvVDX2A",
+        "locationConfidence" : 1.7760887
+      }, {
+        "latitudeE7" : 226184340,
+        "longitudeE7" : 1203030680,
+        "placeId" : "ChIJ9Ym154AEbjQRIR7ZlUfk3eE",
+        "locationConfidence" : 1.5517998
+      }, {
+        "latitudeE7" : 226189639,
+        "longitudeE7" : 1203028530,
+        "placeId" : "ChIJddFUY4EEbjQRjf2u-R87X6k",
+        "locationConfidence" : 1.3955182
+      }, {
+        "latitudeE7" : 226184039,
+        "longitudeE7" : 1203033045,
+        "placeId" : "ChIJPSUFpdQFbjQRqvvpn-OOgR4",
+        "locationConfidence" : 1.3674656
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226185182,
+        "longitudeE7" : 1203036896,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226051336,
+        "longitudeE7" : 1203263173,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612014439000",
+        "endTimestampMs" : "1612015286132"
+      },
+      "distance" : 2758,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 42.60867238044739
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 36.99541985988617
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.5938688814640045
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 4.783527180552483
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.795037418603897
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.466767817735672
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.1846051551401615
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.35517860669642687
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08290040423162282
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.055794871877878904
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.05038806120865047
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.019041250925511122
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005834148396388628
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0021827476302860305
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.794674274919089E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226185302,
+          "lngE7" : 1203037261
+        }, {
+          "latE7" : 226086750,
+          "lngE7" : 1203165664
+        }, {
+          "latE7" : 226051464,
+          "lngE7" : 1203263168
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1612015286132",
+        "location" : {
+          "latitudeE7" : 226051336,
+          "longitudeE7" : 1203263173,
+          "accuracyMetres" : 160,
+          "sourceInfo" : {
+            "deviceTag" : -1182360800
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226052069,
+        "longitudeE7" : 1203262018,
+        "placeId" : "ChIJiyBNQnEDbjQRCdSV5vpXK3I",
+        "address" : "806台灣高雄市前鎮區瑞隆路600-6號",
+        "name" : "鮮鹽堂泰式鹽水雞 前鎮瑞隆店",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 5.12186
+      },
+      "duration" : {
+        "startTimestampMs" : "1612015286132",
+        "endTimestampMs" : "1612017376624"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 226051650,
+      "centerLngE7" : 1203266700,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226016779,
+        "longitudeE7" : 1203248846,
+        "placeId" : "ChIJcWsrw1wDbjQRwHTb3L7bCQk",
+        "locationConfidence" : 5.049577
+      }, {
+        "latitudeE7" : 226053450,
+        "longitudeE7" : 1203261330,
+        "placeId" : "ChIJjW7RAVwDbjQRUlPpH2zKdlA",
+        "locationConfidence" : 4.473731
+      }, {
+        "latitudeE7" : 226050260,
+        "longitudeE7" : 1203260243,
+        "placeId" : "ChIJRbPoBlwDbjQR5bLpS1qk1GQ",
+        "locationConfidence" : 2.7080536
+      }, {
+        "latitudeE7" : 226049686,
+        "longitudeE7" : 1203256140,
+        "placeId" : "ChIJvUKbGlwDbjQRYgLgfaQr9cI",
+        "locationConfidence" : 2.2681923
+      }, {
+        "latitudeE7" : 226050028,
+        "longitudeE7" : 1203261028,
+        "placeId" : "ChIJy7_NAFwDbjQRzBLA4Y237Wg",
+        "locationConfidence" : 1.9916743
+      }, {
+        "latitudeE7" : 226052689,
+        "longitudeE7" : 1203265245,
+        "placeId" : "ChIJJVcrTQMbbjQRuR7YDBGvkNk",
+        "locationConfidence" : 1.9293547
+      }, {
+        "latitudeE7" : 226050146,
+        "longitudeE7" : 1203263698,
+        "placeId" : "ChIJlYis2V8DbjQRbkaXkKW8C1A",
+        "locationConfidence" : 1.6349047
+      }, {
+        "latitudeE7" : 226050986,
+        "longitudeE7" : 1203274580,
+        "placeId" : "ChIJafbG4VsDbjQRq90uKskN7Dc",
+        "locationConfidence" : 1.5953422
+      }, {
+        "latitudeE7" : 226053367,
+        "longitudeE7" : 1203257673,
+        "placeId" : "ChIJy6WndEcDbjQR2Puos8kQZ4A",
+        "locationConfidence" : 1.4888763
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 32.723766
+      },
+      "duration" : {
+        "startTimestampMs" : "1612017376624",
+        "endTimestampMs" : "1612087949208"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226052003,
+      "centerLngE7" : 1203270306,
+      "visitConfidence" : 65,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226050986,
+        "longitudeE7" : 1203274580,
+        "placeId" : "ChIJafbG4VsDbjQRq90uKskN7Dc",
+        "locationConfidence" : 10.301599
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "address" : "806台灣高雄市前鎮區瑞隆路232號",
+        "name" : "Donutes",
+        "locationConfidence" : 4.130167
+      }, {
+        "latitudeE7" : 226043110,
+        "longitudeE7" : 1203316580,
+        "placeId" : "ChIJEzSr-FkDbjQRR6GzeP4oZPo",
+        "locationConfidence" : 4.07618
+      }, {
+        "latitudeE7" : 226053419,
+        "longitudeE7" : 1203274601,
+        "placeId" : "ChIJFW4B4FkDbjQR3k3Wc-Nt614",
+        "locationConfidence" : 3.3877969
+      }, {
+        "latitudeE7" : 226067175,
+        "longitudeE7" : 1203308697,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 3.2185018
+      }, {
+        "latitudeE7" : 226054019,
+        "longitudeE7" : 1203317513,
+        "placeId" : "ChIJXb-Q5lkDbjQRzh_4RvMVF7s",
+        "address" : "806台灣高雄市前鎮區瑞隆路347號",
+        "name" : "味亦美早餐店瑞隆店",
+        "locationConfidence" : 2.5631518
+      }, {
+        "latitudeE7" : 226054796,
+        "longitudeE7" : 1203319837,
+        "placeId" : "ChIJcfEi4FkDbjQRS2mpHSDjHW8",
+        "locationConfidence" : 2.1736443
+      }, {
+        "latitudeE7" : 226049686,
+        "longitudeE7" : 1203256140,
+        "placeId" : "ChIJvUKbGlwDbjQRYgLgfaQr9cI",
+        "locationConfidence" : 1.9257069
+      }, {
+        "latitudeE7" : 226036730,
+        "longitudeE7" : 1203280070,
+        "placeId" : "ChIJU7Bav1sDbjQRI2vVoOJaSR8",
+        "locationConfidence" : 1.4048278
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226074857,
+        "longitudeE7" : 1203323124,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226256720,
+        "longitudeE7" : 1203332736,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612087949208",
+        "endTimestampMs" : "1612088468510"
+      },
+      "distance" : 2073,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 53.80220413208008
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 32.66327977180481
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.567714899778366
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.546624466776848
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.684662140905857
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.5606476925313473
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08671936811879277
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.048658723244443536
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.02395597839495167
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.008872762555256486
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0036774392356164753
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.00253789548878558
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 2.3466695893148426E-4
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 2.1270152501529083E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.86988957043377E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226074981,
+          "lngE7" : 1203321762
+        }, {
+          "latE7" : 226181545,
+          "lngE7" : 1203320388
+        }, {
+          "latE7" : 226253967,
+          "lngE7" : 1203333816
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1612088468510",
+        "location" : {
+          "latitudeE7" : 226256720,
+          "longitudeE7" : 1203332736,
+          "accuracyMetres" : 117
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226255054,
+        "longitudeE7" : 1203332748,
+        "placeId" : "ChIJFQQgS7cEbjQRPvJUCewov4g",
+        "address" : "802台灣高雄市苓雅區明德街2號",
+        "name" : "高雄市立青少年籃球場",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 86.234924
+      },
+      "duration" : {
+        "startTimestampMs" : "1612088468510",
+        "endTimestampMs" : "1612100332469"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226170694,
+      "centerLngE7" : 1203321646,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226254698,
+        "longitudeE7" : 1203339431,
+        "placeId" : "ChIJccivM7cEbjQR4lQy6WlejCs",
+        "locationConfidence" : 0.861153
+      }, {
+        "latitudeE7" : 226273090,
+        "longitudeE7" : 1203345870,
+        "placeId" : "ChIJcel5A7cEbjQRdNncHaJkYEk",
+        "locationConfidence" : 0.43144524
+      }, {
+        "latitudeE7" : 226243867,
+        "longitudeE7" : 1203331960,
+        "placeId" : "ChIJqbbGUGMEbjQR7BQjriaig5E",
+        "locationConfidence" : 0.34779012
+      }, {
+        "latitudeE7" : 226277820,
+        "longitudeE7" : 1203348747,
+        "placeId" : "ChIJLdEXALcEbjQRmG5gwRIv3Oo",
+        "locationConfidence" : 0.26457012
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 226170694,
+        "longitudeE7" : 1203321646,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 226041671,
+        "longitudeE7" : 1203320248,
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1612100332469",
+        "endTimestampMs" : "1612100676599"
+      },
+      "distance" : 1436,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 56.19544982910156
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.914796590805054
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.729751080274582
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6128520704805851
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.34181629307568073
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.15433591324836016
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.027545681223273277
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0075721502071246505
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007294651732081547
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006969783134991303
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0012956998034496792
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 2.0800684978894424E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 6.044120368642325E-5
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 3.611036731854256E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.5017026555597113E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 226170692,
+          "lngE7" : 1203321609
+        }, {
+          "latE7" : 226120338,
+          "lngE7" : 1203327713
+        }, {
+          "latE7" : 226041488,
+          "lngE7" : 1203320388
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1612100676599",
+        "location" : {
+          "latitudeE7" : 226041671,
+          "longitudeE7" : 1203320248,
+          "accuracyMetres" : 87
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 226048813,
+        "longitudeE7" : 1203316121,
+        "placeId" : "ChIJl1Nc-1kDbjQRNnY9y1N-Z5Q",
+        "address" : "806台灣高雄市前鎮區崗山橫街116號",
+        "name" : "崗山橫街116號",
+        "sourceInfo" : {
+          "deviceTag" : -1182360800
+        },
+        "locationConfidence" : 57.54726
+      },
+      "duration" : {
+        "startTimestampMs" : "1612100676599",
+        "endTimestampMs" : "1612230969964"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 226041950,
+      "centerLngE7" : 1203320150,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 226043854,
+        "longitudeE7" : 1203319855,
+        "placeId" : "ChIJkQhJyVkDbjQRS_tqhkj41s8",
+        "locationConfidence" : 3.6059911
+      }, {
+        "latitudeE7" : 226057978,
+        "longitudeE7" : 1203336927,
+        "placeId" : "ChIJ6YRFElcDbjQRpc55pkobtYQ",
+        "locationConfidence" : 1.7922859
+      }, {
+        "latitudeE7" : 226029409,
+        "longitudeE7" : 1203322440,
+        "placeId" : "ChIJzaewoVADbjQRkZ1JG6PwUfs",
+        "locationConfidence" : 1.34414
+      }, {
+        "latitudeE7" : 226053870,
+        "longitudeE7" : 1203312597,
+        "placeId" : "ChIJOeaZ6hsbbjQRhP5-aEtIHZQ",
+        "locationConfidence" : 1.0181221
+      }, {
+        "latitudeE7" : 226039150,
+        "longitudeE7" : 1203319670,
+        "placeId" : "ChIJPzuyAFoDbjQROTkjScvV3X8",
+        "locationConfidence" : 0.87834054
+      }, {
+        "latitudeE7" : 226063580,
+        "longitudeE7" : 1203306750,
+        "placeId" : "ChIJASsEtlkDbjQR_DSiS3LETH4",
+        "locationConfidence" : 0.67870915
+      }, {
+        "latitudeE7" : 226056060,
+        "longitudeE7" : 1203318630,
+        "placeId" : "ChIJFwTa31kDbjQRuTGOkRS84gY",
+        "locationConfidence" : 0.67194796
+      }, {
+        "latitudeE7" : 226040870,
+        "longitudeE7" : 1203313425,
+        "placeId" : "ChIJ187qAloDbjQRNz7DzrBtybs",
+        "locationConfidence" : 0.51873946
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
